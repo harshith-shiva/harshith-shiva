@@ -121,15 +121,7 @@
 ### ◈ GUEST BOOK ◈
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   TRANSMISSION RECEIVED. SIGNAL OPEN.                                   │
-│   Drop a message, leave your mark in the grid.                          │
-│   Every visitor is a node in the network.                               │
-│                                                                         │
-│   ▸ Click below to open a channel ◂                                     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+ ❤️ DROP A MESSAGE ❤️
 ```
 
 <!--
