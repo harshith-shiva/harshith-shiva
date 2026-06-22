@@ -1,0 +1,170 @@
+<svg width="860" height="380" viewBox="0 0 860 380" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Courier, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221"/>
+      <stop offset="100%" style="stop-color:#0a0118"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff2d78"/>
+      <stop offset="50%" style="stop-color:#bf5fff"/>
+      <stop offset="100%" style="stop-color:#00f0ff"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0533;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d0221;stop-opacity:1"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2a0a4a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="380" fill="url(#bg)"/>
+  <!-- Grid overlay -->
+  <rect width="860" height="380" fill="url(#grid)" opacity="0.6"/>
+  <!-- Horizon glow -->
+  <ellipse cx="430" cy="380" rx="400" ry="80" fill="#ff2d78" opacity="0.08"/>
+  <!-- Sun element -->
+  <ellipse cx="430" cy="370" rx="120" ry="25" fill="#ff2d78" opacity="0.15"/>
+
+  <!-- Border glow lines -->
+  <rect x="1" y="1" width="858" height="378" fill="none" stroke="#ff2d78" stroke-width="1" opacity="0.5"/>
+  <rect x="4" y="4" width="852" height="372" fill="none" stroke="#bf5fff" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Header -->
+  <text x="430" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="url(#headerGrad)" filter="url(#glowStrong)" letter-spacing="6">◈ TECH STACK ◈</text>
+  <line x1="60" y1="48" x2="800" y2="48" stroke="url(#headerGrad)" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- LANGUAGES COLUMN -->
+  <text x="60" y="76" font-size="10" fill="#ff2d78" letter-spacing="3" filter="url(#glow)">LANGUAGES</text>
+  <!-- C -->
+  <rect x="60" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ff2d78" stroke-width="0.8" opacity="0.9"/>
+  <text x="96" y="107" text-anchor="middle" font-size="13" fill="#00f0ff" filter="url(#glow)">C</text>
+  <!-- C++ -->
+  <rect x="140" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ff2d78" stroke-width="0.8" opacity="0.9"/>
+  <text x="176" y="107" text-anchor="middle" font-size="12" fill="#00f0ff" filter="url(#glow)">C++</text>
+  <!-- Python -->
+  <rect x="60" y="126" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ff2d78" stroke-width="0.8" opacity="0.9"/>
+  <text x="96" y="147" text-anchor="middle" font-size="11" fill="#00f0ff" filter="url(#glow)">Python</text>
+  <!-- JavaScript -->
+  <rect x="140" y="126" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ff2d78" stroke-width="0.8" opacity="0.9"/>
+  <text x="176" y="147" text-anchor="middle" font-size="10" fill="#00f0ff" filter="url(#glow)">JavaScript</text>
+
+  <!-- Divider -->
+  <line x1="232" y1="68" x2="232" y2="300" stroke="#bf5fff" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- FRAMEWORKS COLUMN -->
+  <text x="252" y="76" font-size="10" fill="#bf5fff" letter-spacing="3" filter="url(#glow)">FRAMEWORKS</text>
+  <!-- Node.js -->
+  <rect x="252" y="86" width="80" height="32" rx="4" fill="url(#cardBg)" stroke="#bf5fff" stroke-width="0.8" opacity="0.9"/>
+  <text x="292" y="107" text-anchor="middle" font-size="11" fill="#e040fb" filter="url(#glow)">Node.js</text>
+  <!-- React -->
+  <rect x="340" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#bf5fff" stroke-width="0.8" opacity="0.9"/>
+  <text x="376" y="107" text-anchor="middle" font-size="12" fill="#e040fb" filter="url(#glow)">React</text>
+
+  <!-- Divider -->
+  <line x1="432" y1="68" x2="432" y2="300" stroke="#ff2d78" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- DATABASES COLUMN -->
+  <text x="452" y="76" font-size="10" fill="#00f0ff" letter-spacing="3" filter="url(#glow)">DATABASES</text>
+  <!-- MySQL -->
+  <rect x="452" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#00f0ff" stroke-width="0.8" opacity="0.9"/>
+  <text x="488" y="107" text-anchor="middle" font-size="11" fill="#ff2d78" filter="url(#glow)">MySQL</text>
+  <!-- SQLite -->
+  <rect x="532" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#00f0ff" stroke-width="0.8" opacity="0.9"/>
+  <text x="568" y="107" text-anchor="middle" font-size="11" fill="#ff2d78" filter="url(#glow)">SQLite</text>
+  <!-- OracleSQL -->
+  <rect x="452" y="126" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#00f0ff" stroke-width="0.8" opacity="0.9"/>
+  <text x="488" y="147" text-anchor="middle" font-size="9" fill="#ff2d78" filter="url(#glow)">OracleSQL</text>
+  <!-- MongoDB -->
+  <rect x="532" y="126" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#00f0ff" stroke-width="0.8" opacity="0.9"/>
+  <text x="568" y="147" text-anchor="middle" font-size="11" fill="#ff2d78" filter="url(#glow)">MongoDB</text>
+
+  <!-- Divider -->
+  <line x1="624" y1="68" x2="624" y2="300" stroke="#bf5fff" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- TOOLS COLUMN -->
+  <text x="644" y="76" font-size="10" fill="#ffcc00" letter-spacing="3" filter="url(#glow)">TOOLS</text>
+  <!-- Git -->
+  <rect x="644" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ffcc00" stroke-width="0.8" opacity="0.9"/>
+  <text x="680" y="107" text-anchor="middle" font-size="13" fill="#ff8c00" filter="url(#glow)">Git</text>
+  <!-- Linux -->
+  <rect x="724" y="86" width="72" height="32" rx="4" fill="url(#cardBg)" stroke="#ffcc00" stroke-width="0.8" opacity="0.9"/>
+  <text x="760" y="107" text-anchor="middle" font-size="12" fill="#ff8c00" filter="url(#glow)">Linux</text>
+  <!-- Railway -->
+  <rect x="644" y="126" width="152" height="32" rx="4" fill="url(#cardBg)" stroke="#ffcc00" stroke-width="0.8" opacity="0.9"/>
+  <text x="720" y="147" text-anchor="middle" font-size="11" fill="#ff8c00" filter="url(#glow)">Railway</text>
+
+  <!-- Bottom separator line -->
+  <line x1="60" y1="180" x2="800" y2="180" stroke="#2a0a4a" stroke-width="0.8"/>
+
+  <!-- SKILL BARS SECTION -->
+  <text x="430" y="210" text-anchor="middle" font-size="9" fill="#bf5fff" letter-spacing="4" opacity="0.8">◈ PROFICIENCY ◈</text>
+
+  <!-- C -->
+  <text x="70" y="234" font-size="9" fill="#00f0ff">C</text>
+  <rect x="110" y="224" width="140" height="8" rx="2" fill="#1a0533" stroke="#00f0ff" stroke-width="0.5"/>
+  <rect x="110" y="224" width="112" height="8" rx="2" fill="#00f0ff" opacity="0.7"/>
+
+  <!-- C++ -->
+  <text x="70" y="252" font-size="9" fill="#00f0ff">C++</text>
+  <rect x="110" y="242" width="140" height="8" rx="2" fill="#1a0533" stroke="#00f0ff" stroke-width="0.5"/>
+  <rect x="110" y="242" width="98" height="8" rx="2" fill="#00f0ff" opacity="0.7"/>
+
+  <!-- Python -->
+  <text x="70" y="270" font-size="9" fill="#00f0ff">Python</text>
+  <rect x="110" y="260" width="140" height="8" rx="2" fill="#1a0533" stroke="#00f0ff" stroke-width="0.5"/>
+  <rect x="110" y="260" width="126" height="8" rx="2" fill="#00f0ff" opacity="0.7"/>
+
+  <!-- JavaScript -->
+  <text x="70" y="288" font-size="9" fill="#00f0ff">JS</text>
+  <rect x="110" y="278" width="140" height="8" rx="2" fill="#1a0533" stroke="#00f0ff" stroke-width="0.5"/>
+  <rect x="110" y="278" width="105" height="8" rx="2" fill="#00f0ff" opacity="0.7"/>
+
+  <!-- Middle bars -->
+  <text x="290" y="234" font-size="9" fill="#e040fb">React</text>
+  <rect x="340" y="224" width="140" height="8" rx="2" fill="#1a0533" stroke="#bf5fff" stroke-width="0.5"/>
+  <rect x="340" y="224" width="119" height="8" rx="2" fill="#bf5fff" opacity="0.7"/>
+
+  <text x="290" y="252" font-size="9" fill="#e040fb">Node.js</text>
+  <rect x="340" y="242" width="140" height="8" rx="2" fill="#1a0533" stroke="#bf5fff" stroke-width="0.5"/>
+  <rect x="340" y="242" width="112" height="8" rx="2" fill="#bf5fff" opacity="0.7"/>
+
+  <text x="290" y="270" font-size="9" fill="#e040fb">MySQL</text>
+  <rect x="340" y="260" width="140" height="8" rx="2" fill="#1a0533" stroke="#bf5fff" stroke-width="0.5"/>
+  <rect x="340" y="260" width="105" height="8" rx="2" fill="#bf5fff" opacity="0.7"/>
+
+  <text x="290" y="288" font-size="9" fill="#e040fb">MongoDB</text>
+  <rect x="340" y="278" width="140" height="8" rx="2" fill="#1a0533" stroke="#bf5fff" stroke-width="0.5"/>
+  <rect x="340" y="278" width="91" height="8" rx="2" fill="#bf5fff" opacity="0.7"/>
+
+  <!-- Right bars -->
+  <text x="510" y="234" font-size="9" fill="#ff8c00">Git</text>
+  <rect x="550" y="224" width="140" height="8" rx="2" fill="#1a0533" stroke="#ffcc00" stroke-width="0.5"/>
+  <rect x="550" y="224" width="133" height="8" rx="2" fill="#ffcc00" opacity="0.7"/>
+
+  <text x="510" y="252" font-size="9" fill="#ff8c00">Linux</text>
+  <rect x="550" y="242" width="140" height="8" rx="2" fill="#1a0533" stroke="#ffcc00" stroke-width="0.5"/>
+  <rect x="550" y="242" width="112" height="8" rx="2" fill="#ffcc00" opacity="0.7"/>
+
+  <text x="510" y="270" font-size="9" fill="#ff8c00">Railway</text>
+  <rect x="550" y="260" width="140" height="8" rx="2" fill="#1a0533" stroke="#ffcc00" stroke-width="0.5"/>
+  <rect x="550" y="260" width="84" height="8" rx="2" fill="#ffcc00" opacity="0.7"/>
+
+  <!-- Footer -->
+  <line x1="60" y1="316" x2="800" y2="316" stroke="url(#headerGrad)" stroke-width="0.5" opacity="0.5"/>
+  <text x="430" y="340" text-anchor="middle" font-size="8" fill="#bf5fff" letter-spacing="2" opacity="0.7">▸ harshith-shiva • github.com/harshith-shiva ◂</text>
+  <!-- Scanline effect rows -->
+  <rect x="0" y="0" width="860" height="380" fill="none" opacity="0.03">
+    <animate attributeName="y" from="-380" to="380" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
