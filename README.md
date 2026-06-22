@@ -114,7 +114,10 @@
 
 ### ◈ GUEST BOOK ◈
 
-❤️ DROP A MESSAGE ❤️
+ ❤️ DROP A MESSAGE ❤️
+
+ <br/>
+
 
 <!--
   HOW THE GUESTBOOK WORKS:
