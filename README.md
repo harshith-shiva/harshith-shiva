@@ -15,7 +15,7 @@
 
 <!-- ▼ REPLACE THE SRC WITH YOUR OWN GIF PATH ▼ -->
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="synthwave-banner"/> -->
-<img src="./prettybusy_16x97.gif" width="100%"/> 
+<img src="./gif2.gif" width="100%"/> 
 
 <br/>
 
