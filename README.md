@@ -46,28 +46,6 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   > BOOTING SYSTEM...                            [STATUS: ONLINE]       │
-│   > LOADING IDENTITY FILE...                     [██████████] 100%      │
-│                                                                         │
-│   ENTITY     ::  Harshith Shiva                                         │
-│   CLASS      ::  CS Undergrad · Full Stack Developer                    │
-│   LOCATION   ::  Tamil Nadu, India  [ 10°N 78°E ]                       │
-│   LANGUAGE   ::  C / C++ / Python / JavaScript                          │
-│                                                                         │
-│   OBJECTIVES ::                                                         │
-│     ⬡  Writing systems-level code that actually makes sense             │
-│     ⬡  Building full-stack apps that don't look like templates           │
-│     ⬡  Learning one new thing every day, shipping the rest               │
-│     ⬡  Obsessed with clean logic and clean UX (equally)                 │
-│                                                                         │
-│   STATUS     ::  Actively learning ▸ Open to collabs ▸ Building...      │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
 </div>
 
 <br/>
