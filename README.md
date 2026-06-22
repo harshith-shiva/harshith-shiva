@@ -61,7 +61,7 @@
   3. OR paste the raw GitHub URL once you've pushed it
 -->
 
-![Tech Stack](./techstack.svg)
+<!--![Tech Stack](./techstack.svg)-->
 
 </div>
 
