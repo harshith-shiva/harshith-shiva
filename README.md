@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="40%" valign="top" align="center">
 
 - 🎓 Computer Science student, always building something
 - 🛠️ I like turning weird little ideas into working tools — a story generator, a Chrome extension, a Telegram bot, a network simulator
