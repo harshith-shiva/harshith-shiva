@@ -25,7 +25,7 @@
 - 📫 Always open to interesting projects, collabs, or just a good technical conversation
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="60%" valign="top" align="centre">
 
 <img src="./prettybusy_16x97.gif" width="100%" height="390" alt="about me gif" style="object-fit:cover;"/>
 
