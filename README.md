@@ -1,6 +1,6 @@
 <!-- <img width="432" height="243" alt="prettybusy_16x97" src="https://github.com/user-attachments/assets/5efb360e-08ad-4901-a97a-c1c9eb75171b" /><div align="center"> -->
 
-<img src="./prettybusy_16x97.gif" width="100%" alt="hero banner"/>
+<img src="https://wallpaperaccess.com/full/2471354.gif" width="100%" alt="hero banner"/>
 
 </div>
 
