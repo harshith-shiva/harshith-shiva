@@ -6,7 +6,7 @@
 
 <br/>
 
-# Hey there ✌︎㋡
+# Hey there ㋡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B967FF&center=true&vCenter=true&width=700&lines=%F0%93%82%80+CS+Student+%7C+Builder+%7C+Tinkerer)](https://github.com/harshith-shiva)
 
