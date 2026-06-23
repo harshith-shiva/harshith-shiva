@@ -27,7 +27,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./assets/about-me.gif" width="100%" alt="about me gif"/>
+<img src="./prettybusy_16x97.gif" width="100%" alt="about me gif"/>
 
 </td>
 </tr>
