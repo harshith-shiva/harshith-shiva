@@ -8,7 +8,7 @@
 
 # Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Breaking+things+and+fixing+them+one+at+a+time.;CS+student+%7C+builder+%7C+tinkerer.)](https://github.com/harshith-shiva)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=%F0%93%82%80;CS+Student+%7C+Builder+%7C+Tinkerer)](https://github.com/harshith-shiva)
 
 <br/>
 
