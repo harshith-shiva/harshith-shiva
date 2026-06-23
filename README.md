@@ -16,8 +16,8 @@
 
 <table>
 <tr>
-<td width="40%" valign="top" align="center">
-
+<td width="60%" valign="top">
+  
 - 🎓 Computer Science student, always building something
 - 🛠️ I like turning weird little ideas into working tools — a story generator, a Chrome extension, a Telegram bot, a network simulator
 - 🌐 Comfortable across the stack — from C/C++ fundamentals to React on the frontend and SQL/NoSQL on the backend
@@ -25,9 +25,9 @@
 - 📫 Always open to interesting projects, collabs, or just a good technical conversation
 
 </td>
-<td width="60%" valign="top" align="centre">
+<td width="40%" valign="top" align="center">
 
-<img src="./prettybusy_16x97.gif" width="100%" height="390" alt="about me gif" style="object-fit:cover;"/>
+<img src="./prettybusy_16x97.gif" width="100%" height="100%" alt="about me gif" style="object-fit:cover;"/>
 
 </td>
 </tr>
