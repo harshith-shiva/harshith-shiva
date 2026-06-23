@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="hero banner"/>
+<img src="./gif2.gif" width="100%" alt="hero banner"/>
 
 </div>
 
