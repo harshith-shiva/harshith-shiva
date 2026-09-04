@@ -1,6 +1,6 @@
 <!-- <img width="432" height="243" alt="prettybusy_16x97" src="https://github.com/user-attachments/assets/5efb360e-08ad-4901-a97a-c1c9eb75171b" /><div align="center"> -->
 
-<img src="https://wallpaperaccess.com/full/2471354.gif" width="100%" alt="hero banner"/>
+<img src="https://www.bing.com/th/id/OGC.374d5b1fe27cda7917bb5fc9dd4c430f?r=0&o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2ff%2f70ef041c-e11b-4bec-a9c3-58ab91f64a66%2fdehtwlg-ce513e1a-2d1c-481a-a65f-38a7689ab1e2.gif%3ftoken%3deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZWYwNDFjLWUxMWItNGJlYy1hOWMzLTU4YWI5MWY2NGE2NlwvZGVodHdsZy1jZTUxM2UxYS0yZDFjLTQ4MWEtYTY1Zi0zOGE3Njg5YWIxZTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4uKZMUOulHgwfTlRUbLbisdB41MONt1jRmyhCMXP5Yo&ehk=qFpJCVAs72cqTHRDamor1ZFgIDUh1qbE%2f99l0CjW1kE%3d" width="100%" height="10%"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="./prettybusy_16x97.gif" width="100%" height="100%" alt="about me gif" style="object-fit:cover;"/>
+<img src="https://c.tenor.com/0LDCY2qmcEUAAAAC/8bit-bit.gif" width="100%" height="100%" alt="about me gif" style="object-fit:cover;"/>
 
 </td>
 </tr>
